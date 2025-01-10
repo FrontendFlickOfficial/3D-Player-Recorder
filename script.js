@@ -1,7 +1,3 @@
-/*
-	Designed by: Guillaume Kurkdjian 
-	Original image: https://electronicitems.tumblr.com/
-*/
 
 const unit = 1.75;
 const b = document.body;
